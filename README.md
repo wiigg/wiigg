@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🏢 Technology Strategist at Microsoft
-- 🎓 Graduate Student at University of Pennsylvania
+- 🏢 Technology Strategist at **Microsoft**
+- 🎓 Graduate Student at **University of Pennsylvania**
 - 🌱 **Learning**: Web Development
 - 🛠️ **Languages**: Java, C, Python
 - 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
