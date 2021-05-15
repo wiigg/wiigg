@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🏢 Technology Strategist at Microsoft
 - 🎓 Graduate Student at University of Pennsylvania
-- 🌱 **Learning**: Systems Programming (C/C++)
+- 🌱 **Learning**: Web Development
 - 🛠️ **Languages**: Java, C, Python
-- 💬 **Hobbies**: Running, Reading, Music
-- 🤗 **Cares About**: Sustainability
+- 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
+- 🤗 **Cares About**: The Planet
 
 <!--
 **wiigg/wiigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
