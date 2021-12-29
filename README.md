@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏢 Technology Strategist at **Microsoft**
+- 🏢 Cloud Architect at **Microsoft**
 - 🎓 Graduate Student at **University of Pennsylvania**
 - 🌱 **Learning**: Web Development
 - 🛠️ **Languages**: Java, C, Python
