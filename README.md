@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🏢 Cloud Architect at **Microsoft**
 - 🎓 Graduate Student at **University of Pennsylvania**
-- 🌱 **Learning**: C++
-- 🛠️ **Languages**: Java, C, Python, Javascript
+- 🌱 **Learning**: Distributed Systems
+- 🛠️ **Languages**: Java, C/C++, Python, Javascript
 - 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
 - 🤗 **Cares About**: The Planet
 
