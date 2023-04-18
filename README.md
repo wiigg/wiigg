@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hello, I'm Danny 👋
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywigg/)
 - 🏢 Cloud Architect at **Microsoft**
-- 🎓 Graduate Student at **University of Pennsylvania**
-- 🌱 **Learning**: Distributed Systems
-- 🛠️ **Languages**: Java, C/C++, Python, Javascript
+- 🎓 **University of Pennsylvania** Alum
+- 🌱 **Learning**: Full Stack Web
+- 🛠️ **Languages**: Javascript, Java, Python, C++
 - 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
 - 🤗 **Cares About**: The Planet
 
