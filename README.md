@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywigg/)
 - 🏢 Cloud Architect at **Microsoft**
 - 🎓 **University of Pennsylvania** Alum
-- 🌱 **Learning**: Full Stack Web
-- 🛠️ **Languages**: Javascript, Java, Python, C++
+- 🌱 **Learning**: Go
+- 🛠️ **Languages**: JavaScript, Python, Java, Python
 - 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
 - 🤗 **Cares About**: The Planet
 
