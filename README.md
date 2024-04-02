@@ -3,7 +3,7 @@
 - 🏢 Cloud Architect at **Microsoft**
 - 🎓 **University of Pennsylvania** Alum
 - 🌱 **Learning**: Go
-- 🛠️ **Languages**: JavaScript, Python, Java, Python
+- 🛠️ **Languages**: JavaScript, Python, Java
 - 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
 - 🤗 **Cares About**: The Planet
 
