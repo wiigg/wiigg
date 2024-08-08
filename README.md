@@ -1,10 +1,9 @@
 # Hello, I'm Danny 👋
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywigg/)
-- 🏢 Cloud Architect at **Microsoft**
+- 🏢 Solution Engineer at **Shopify**
 - 🎓 **University of Pennsylvania** Alum
-- 🌱 **Learning**: Go
-- 🛠️ **Languages**: JavaScript, Python, Java
-- 💬 **Hobbies**: Running, Hiking, Reading, Mindfulness
+- 🛠️ **Languages**: Go, TypeScript/JavaScript, Python
+- 💬 **Hobbies**: Gaming, Astronomy, Running, Hiking, Reading, Mindfulness
 - 🤗 **Cares About**: The Planet
 
 <!--
