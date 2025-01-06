@@ -1,6 +1,6 @@
 # Hello, I'm Danny 👋
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywigg/)
-- 🏢 Solution Engineer at **Shopify**
+- 🏢 Solutions Architect who codes!
 - 🎓 **University of Pennsylvania** Alum
 - 🛠️ **Languages**: Go, TypeScript/JavaScript, Python
 - 💬 **Hobbies**: Gaming, Astronomy, Running, Hiking, Reading, Mindfulness
